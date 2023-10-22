@@ -3,8 +3,8 @@
 <!--https://github.com/Ileriayo/markdown-badges-->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![](https://badges.peiyuan.ch/leetcode/{username}/solved?difficulty=all)![](https://badges.peiyuan.ch/leetcode/{username}/solved?difficulty=easy)![](https://badges.peiyuan.ch/leetcode/{username}/solved?difficulty=medium)
-![](https://badges.peiyuan.ch/leetcode/{username}/solved?difficulty=hard)
+![](https://badges.peiyuan.ch/leetcode/user5545B/solved?difficulty=all)![](https://badges.peiyuan.ch/leetcode/user5545B/solved?difficulty=easy)![](https://badges.peiyuan.ch/leetcode/user5545B/solved?difficulty=medium)
+![](https://badges.peiyuan.ch/leetcode/user5545B/solved?difficulty=hard)
 
 ![](https://komarev.com/ghpvc/?username=MaksimDenisov&label=PROFILE+VIEWS)
 
